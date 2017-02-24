@@ -2,7 +2,7 @@
 
 import numpy as np
 
-class QDA():
+class QDA(object):
     """
     Quadratic discriminant analysis
     """
